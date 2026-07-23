@@ -2,13 +2,13 @@
 
 A boutique cookie brand centered around refined, delicate sweetness. The business emphasizes artisanal quality and an elegant, upscale feel — positioned as a premium treat rather than a mass-market product. The brand likely appeals to customers who appreciate subtle, sophisticated flavors and handcrafted baked goods.
 
-Source: https://-d29b6ff5.zappy5.app
+Source: https://example.com
 
 ---
 
 ## לגלות את סוד המתיקות המעודנת — נדב ידי זהב
 
-URL: https://-d29b6ff5.zappy5.app
+URL: https://example.com
 Description: נדב ידי זהב מזמינים אתכם לעולם של עוגיות חמאה בוטיקיות בטעם עשיר ומרקם פריך להפליא. מתיקות עדינה שמתאימה לכל רגע של פינוק אמיתי. בואו לטעום איכות ללא פשרות.
 
 לגלות את סוד המתיקות המעודנת — נדב ידי זהב
@@ -461,7 +461,7 @@ Description: נדב ידי זהב מזמינים אתכם לעולם של עוג
 
 ## התפנקו בעוגיות חמאה נמסות בפה — נדב ידי זהב
 
-URL: https://-d29b6ff5.zappy5.app/cookies
+URL: https://example.com/cookies
 Description: מאלפחורס מושלם ועד עוגיות חמאה קלאסיות, כל ביס חושף פריכות נעימה ומתיקות מאוזנת. אצלנו תמצאו מבחר מאפים טריים שיהפכו כל אירוח לחוויה יוקרתית. הזמינו עכשיו.
 
 התפנקו בעוגיות חמאה נמסות בפה — נדב ידי זהב
@@ -856,7 +856,7 @@ Description: מאלפחורס מושלם ועד עוגיות חמאה קלאסי
 
 ## הקסם שמאחורי טעם של עוד — נדב ידי זהב
 
-URL: https://-d29b6ff5.zappy5.app/about
+URL: https://example.com/about
 Description: הסיפור של נדב ידי זהב מתחיל בתשוקה למתיקות מעודנת ולאפייה אומנותית. אנו יוצרים בעבודת יד עוגיות חמאה יוקרתיות, טעימות וטריות בכל יום. הצטרפו למסע הטעם המושלם.
 
 הקסם שמאחורי טעם של עוד — נדב ידי זהב
@@ -1192,7 +1192,7 @@ Description: הסיפור של נדב ידי זהב מתחיל בתשוקה למ
 
 ## בואו נדבר על הפינוק המושלם — נדב ידי זהב
 
-URL: https://-d29b6ff5.zappy5.app/contact
+URL: https://example.com/contact
 Description: רוצים להתענג על פריכות נעימה ומתיקות מעודנת? צרו קשר עם נדב ידי זהב להזמנות מיוחדות, אירועים או סתם שאלה. אנחנו כאן כדי להמתיק לכם את היום באיכות בוטיקית.
 
 בואו נדבר על הפינוק המושלם — נדב ידי זהב
@@ -1544,7 +1544,7 @@ Description: רוצים להתענג על פריכות נעימה ומתיקות
 
 ## מדיניות פרטיות
 
-URL: https://-d29b6ff5.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1805,7 +1805,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-d29b6ff5.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2075,7 +2075,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-d29b6ff5.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -2364,7 +2364,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפניתם אלינו
 
-URL: https://-d29b6ff5.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: נדב ידי זהב - תודה שפניתם אלינו
 
 תודה שפניתם אלינו

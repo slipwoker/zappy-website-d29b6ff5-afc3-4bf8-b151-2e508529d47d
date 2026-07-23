@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-d29b6ff5.zappy5.app
+https://example.com
 נדב ידי זהב מזמינים אתכם לעולם של עוגיות חמאה בוטיקיות בטעם עשיר ומרקם פריך להפליא. מתיקות עדינה שמתאימה לכל רגע של פינוק אמיתי. בואו לטעום איכות ללא פשרות.
 
 ### עוגיות
-https://-d29b6ff5.zappy5.app/cookies
+https://example.com/cookies
 מאלפחורס מושלם ועד עוגיות חמאה קלאסיות, כל ביס חושף פריכות נעימה ומתיקות מאוזנת. אצלנו תמצאו מבחר מאפים טריים שיהפכו כל אירוח לחוויה יוקרתית. הזמינו עכשיו.
 
 ### אודות
-https://-d29b6ff5.zappy5.app/about
+https://example.com/about
 הסיפור של נדב ידי זהב מתחיל בתשוקה למתיקות מעודנת ולאפייה אומנותית. אנו יוצרים בעבודת יד עוגיות חמאה יוקרתיות, טעימות וטריות בכל יום. הצטרפו למסע הטעם המושלם.
 
 ### צור קשר
-https://-d29b6ff5.zappy5.app/contact
+https://example.com/contact
 רוצים להתענג על פריכות נעימה ומתיקות מעודנת? צרו קשר עם נדב ידי זהב להזמנות מיוחדות, אירועים או סתם שאלה. אנחנו כאן כדי להמתיק לכם את היום באיכות בוטיקית.
 
 ### תודה שפניתם אלינו
-https://-d29b6ff5.zappy5.app/thank-you
+https://example.com/thank-you
 נדב ידי זהב - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-d29b6ff5.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-d29b6ff5.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-d29b6ff5.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-d29b6ff5.zappy5.app/contact
-- Endpoint: https://-d29b6ff5.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -76,6 +76,6 @@ Bakery & Confectionery
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-d29b6ff5.zappy5.app/sitemap.xml
-- Robots: https://-d29b6ff5.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-d29b6ff5.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
