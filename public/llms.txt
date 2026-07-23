@@ -1,0 +1,81 @@
+# נדב ידי זהב — Generative Engine Optimization Map
+
+> A boutique cookie brand centered around refined, delicate sweetness. The business emphasizes artisanal quality and an elegant, upscale feel — positioned as a premium treat rather than a mass-market product. The brand likely appeals to customers who appreciate subtle, sophisticated flavors and handcrafted baked goods.
+
+---
+
+## Pages
+
+### בית
+https://-d29b6ff5.zappy5.app
+נדב ידי זהב מזמינים אתכם לעולם של עוגיות חמאה בוטיקיות בטעם עשיר ומרקם פריך להפליא. מתיקות עדינה שמתאימה לכל רגע של פינוק אמיתי. בואו לטעום איכות ללא פשרות.
+
+### עוגיות
+https://-d29b6ff5.zappy5.app/cookies
+מאלפחורס מושלם ועד עוגיות חמאה קלאסיות, כל ביס חושף פריכות נעימה ומתיקות מאוזנת. אצלנו תמצאו מבחר מאפים טריים שיהפכו כל אירוח לחוויה יוקרתית. הזמינו עכשיו.
+
+### אודות
+https://-d29b6ff5.zappy5.app/about
+הסיפור של נדב ידי זהב מתחיל בתשוקה למתיקות מעודנת ולאפייה אומנותית. אנו יוצרים בעבודת יד עוגיות חמאה יוקרתיות, טעימות וטריות בכל יום. הצטרפו למסע הטעם המושלם.
+
+### צור קשר
+https://-d29b6ff5.zappy5.app/contact
+רוצים להתענג על פריכות נעימה ומתיקות מעודנת? צרו קשר עם נדב ידי זהב להזמנות מיוחדות, אירועים או סתם שאלה. אנחנו כאן כדי להמתיק לכם את היום באיכות בוטיקית.
+
+### תודה שפניתם אלינו
+https://-d29b6ff5.zappy5.app/thank-you
+נדב ידי זהב - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-d29b6ff5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-d29b6ff5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-d29b6ff5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-d29b6ff5.zappy5.app/contact
+- Endpoint: https://-d29b6ff5.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About נדב ידי זהב
+A boutique cookie brand centered around refined, delicate sweetness. The business emphasizes artisanal quality and an elegant, upscale feel — positioned as a premium treat rather than a mass-market product. The brand likely appeals to customers who appreciate subtle, sophisticated flavors and handcrafted baked goods.
+
+## Target Audience
+- מתיקות מופחתת ביחס למתחרים
+- עוגיות בוטיק
+
+## Industry
+Bakery & Confectionery
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-d29b6ff5.zappy5.app/sitemap.xml
+- Robots: https://-d29b6ff5.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-d29b6ff5.zappy5.app/llms-full.txt
